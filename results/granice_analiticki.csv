@@ -1,0 +1,5 @@
+K,alpha_max,critical_resources
+2,80.0,"UD1, UD2"
+3,120.0,"UD1, UD2, UD3"
+4,160.0,"CPU, UD1, UD2, UD3, UD4"
+5,160.0,CPU

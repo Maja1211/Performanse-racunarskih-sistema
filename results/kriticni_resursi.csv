@@ -1,0 +1,17 @@
+K,r,critical_resources
+2,0.3,"UD1, UD2"
+2,0.55,"UD1, UD2"
+2,0.8,"UD1, UD2"
+2,1.0,"UD1, UD2"
+3,0.3,"UD1, UD2, UD3"
+3,0.55,"UD1, UD2, UD3"
+3,0.8,"UD1, UD2, UD3"
+3,1.0,"UD1, UD2, UD3"
+4,0.3,"CPU, UD1, UD2, UD3, UD4"
+4,0.55,"CPU, UD1, UD2, UD3, UD4"
+4,0.8,"CPU, UD1, UD2, UD3, UD4"
+4,1.0,"CPU, UD1, UD2, UD3, UD4"
+5,0.3,CPU
+5,0.55,CPU
+5,0.8,CPU
+5,1.0,CPU
